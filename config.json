@@ -19,7 +19,8 @@
 "autoread": true,
 "gamewaktu": 90,
 "limitCount": 25,
-"prem" 1000,
-"user": 15  
+"gcount": {
+    "prem": 1000,
+    "user": 15  
     }
 }
